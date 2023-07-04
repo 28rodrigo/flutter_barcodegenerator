@@ -1,0 +1,4 @@
+#Thu Apr 06 09:14:02 BST 2023
+base.0=C\:\\Users\\Utilizador\\Desktop\\barcodescanner\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
